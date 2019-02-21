@@ -1,0 +1,28 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux2t1
+INFO: [VRFC 10-307] analyzing entity reg8
+INFO: [VRFC 10-307] analyzing entity exercise1
+ERROR: [VRFC 10-654] expected an architecture identifier in index [/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd:90]
+ERROR: [VRFC 10-2666] formal port reg_in has no actual or default value [/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd:90]
+ERROR: [VRFC 10-654] expected an architecture identifier in index [/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd:95]
+ERROR: [VRFC 10-2666] formal port a has no actual or default value [/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd:95]
+ERROR: [VRFC 10-1504] unit behavioral ignored due to previous errors [/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd:76]
+INFO: [VRFC 10-240] VHDL file /home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux2t1
+INFO: [VRFC 10-307] analyzing entity reg8
+INFO: [VRFC 10-307] analyzing entity exercise1
+ERROR: [VRFC 10-654] expected an architecture identifier in index [/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd:90]
+ERROR: [VRFC 10-2666] formal port reg_in has no actual or default value [/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd:90]
+ERROR: [VRFC 10-654] expected an architecture identifier in index [/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd:95]
+ERROR: [VRFC 10-2666] formal port a has no actual or default value [/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd:95]
+ERROR: [VRFC 10-1504] unit rt1_structural ignored due to previous errors [/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd:76]
+INFO: [VRFC 10-240] VHDL file /home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd ignored due to errors
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux2t1
+INFO: [VRFC 10-307] analyzing entity reg8
+INFO: [VRFC 10-307] analyzing entity exercise1
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux2t1
+INFO: [VRFC 10-307] analyzing entity reg8
+INFO: [VRFC 10-307] analyzing entity exercise1

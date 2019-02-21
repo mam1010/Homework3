@@ -1,0 +1,4 @@
+INFO: [VRFC 10-163] Analyzing VHDL file "/home/user/Documents/Homework3/Homework3.srcs/sources_1/new/exercise1.vhd" into library xil_defaultlib
+INFO: [VRFC 10-307] analyzing entity mux2t1
+INFO: [VRFC 10-307] analyzing entity reg8
+INFO: [VRFC 10-307] analyzing entity exercise1
